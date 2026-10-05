@@ -29,10 +29,10 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 			LinkPresets.Categories,
 
 			// 标签
-			LinkPresets.Tags,
+		//	LinkPresets.Tags,
 
 			// 系列
-			LinkPresets.Series,
+		//	LinkPresets.Series,
 		],
 	});
 
@@ -105,15 +105,9 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 		children: [
 			{
 				name: "GitHub",
-				url: "https://github.com/CuteLeaf/Firefly",
+				url: "https://github.com/Xiaobaibai454",
 				external: true,
 				icon: "fa7-brands:github",
-			},
-			{
-				name: "Gitee",
-				url: "https://gitee.com/CuteLeaf/Firefly",
-				external: true,
-				icon: "fa7-brands:gitee",
 			},
 			{
 				name: "Firefly文档",

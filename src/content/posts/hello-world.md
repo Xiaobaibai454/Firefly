@@ -4,7 +4,7 @@ published: 2026-10-05
 description: ''
 image: ''
 tags: []
-category: ''
+category: '测试'
 draft: false
 lang: ''
 slug: hello-world
